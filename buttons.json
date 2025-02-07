@@ -1,0 +1,20 @@
+{
+    "buttons": {
+        "attack": 25275280,
+        "attack2": 25275456,
+        "back": 25275904,
+        "duck": 25276625,
+        "forward": 25275831,
+        "jump": 25276480,
+        "left": 25276073,
+        "lookatweapon": 27916960,
+        "reload": 25275104,
+        "right": 25276210,
+        "showscores": 27916552,
+        "sprint": 25275041,
+        "turnleft": 25275333,
+        "turnright": 25275470,
+        "use": 25276347,
+        "zoom": 27916688
+    }
+}
